@@ -1,1 +1,3 @@
 fdasfasd
+
+twoja statusbar;
