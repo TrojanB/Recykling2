@@ -1,5 +1,4 @@
-fdasfasd
-<<<<<<< HEAD
+let odp;
+let punkty=0;
+let wynik;
 
-=======
->>>>>>> dc47d5d1bc425484dedfe888d9f4d3ec95e664e0
