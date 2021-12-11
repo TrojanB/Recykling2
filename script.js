@@ -1,3 +1,2 @@
 fdasfasd
 
-twoja statusbar;
