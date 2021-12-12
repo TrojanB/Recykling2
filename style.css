@@ -62,10 +62,9 @@ header{
     display:flex;
     color:white;
     background-color: #008000;
-    justify-content:right;
-    text-align:right;
+    justify-content:center;
     float:left;
-    padding-bottom:44%;
+    padding-bottom:20.3%;
 }
 
 .quiz{
@@ -77,4 +76,12 @@ header{
     float:left;
     font-size:40px;
     
+}
+
+a{
+    text-decoration: none;
+    color:#142900;
+}
+a:hover{
+    color:#003D1D;
 }
